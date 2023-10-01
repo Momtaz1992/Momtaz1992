@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web & App Student I am a passionate learner and aspiring web developer currently studying Web App and Development.<br>
+Full Stack Web & App Developer <br>
 
 
 ## 🌐 Socials:
