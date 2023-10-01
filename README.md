@@ -1,5 +1,6 @@
 # 💫 About Me:
-Full Stack Web & App Developer <br>
+I am a motivated full-stack web developer with a background in computer science and a passion for creating appealing and user-friendly websites. I possess expertise in HTML, CSS, JavaScript, and React. I have an eye for design and a keen attention to detail. With seven years of experience in accounting, I bring a blend of domain knowledge and analytical thinking into my development projects. Additionally, I have completed a bootcamp course to qualify as a full-stack web developer.
+ <br>
 
 
 ## 🌐 Socials:
